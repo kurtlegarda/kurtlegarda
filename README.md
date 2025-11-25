@@ -1,16 +1,25 @@
 ## Hi there 👋
+# kurtlegarda
 
-<!--
-**kurtlegarda/kurtlegarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :wave: Hi, I'm Kurtniel Toscano
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+Here’s a quick overview of who I am and what I do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## :student: **Education**
+- Bachelor of Science in Information Technology  
+  *[New Era University — 2nd Year]*
+  
+---
+
+## :medal: **Certifications**
+- 
+
+---
+
+
+## :mailbox: **Contact**
+- **Email:** kurtniel22@gmail.com  
+- **GitHub:** https://github.com/kurtlegarda
