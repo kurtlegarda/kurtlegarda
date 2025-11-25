@@ -1,7 +1,4 @@
-## Hi there 👋
-# kurtlegarda
-
-# :wave: Hi, I'm Kurtniel Toscano
+## :wave: Hi, I'm Kurtniel Toscano
 
 Welcome to my GitHub profile!  
 Here’s a quick overview of who I am and what I do.
