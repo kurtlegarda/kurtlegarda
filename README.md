@@ -11,7 +11,7 @@ Here’s a quick overview of who I am and what I do.
   
 ---
 
-## :medal: **Certifications**
+## 🥇 **Certifications**
 - 
 
 ---
