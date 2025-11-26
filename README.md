@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ## :student: **Education**
 - Bachelor of Science in Information Technology  
   *[New Era University — 2nd Year]*
-- Science, Technology, Engineering, and Mathematics
+- Science, Technology, Engineering, and Mathematics  
   *[Lagro High School — 2019-2021]*
 
 ---
