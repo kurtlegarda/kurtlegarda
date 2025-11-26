@@ -1,7 +1,6 @@
 ## :wave: Hi, I'm Kurtniel Toscano
 
 Welcome to my GitHub profile!  
-Here’s a quick overview of who I am and what I do.
 
 ---
 
@@ -15,7 +14,6 @@ Here’s a quick overview of who I am and what I do.
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/40c3db36256c44e68d0baf4e177fd040)
 
 ---
-
 
 ## :mailbox: **Contact**
 - **Email:** kurtniel22@gmail.com  
