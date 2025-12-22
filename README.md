@@ -16,6 +16,7 @@ Welcome to my GitHub profile!
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/40c3db36256c44e68d0baf4e177fd040)
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8EBFFBE572B620B13B67414F8B0D9C1AA54B7CC052F34BB7A5A83A6F91A8047)
 - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C9982B7F3CE7A8E91B71462B356651911E91FFEF315E0D599F5A560802EA6C38)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CC435A026DBCF7967C026E82DE1F8E3A3722674F1EE490F3A7B1C82BA2FD2EC5)
 
 ---
 
